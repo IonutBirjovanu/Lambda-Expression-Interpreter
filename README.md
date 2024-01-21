@@ -1,11 +1,6 @@
 # Lambda-Expression-Interpreter
 This project is a Haskell interpreter for lambda expressions. Lambda expressions are a powerful way of representing functions in a concise form. The interpreter supports the evaluation of lambda expressions, parsing expressions, and handling macros within a computational context.
 
-## Table of Contents
-### 1.Lambda Expressions
-### 2.Running the REPL
-### 3.Testing
-
 ## 1.Lambda Expressions
 Lambda expressions are represented using the following data type:
 
