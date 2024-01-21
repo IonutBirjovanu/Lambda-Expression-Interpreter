@@ -12,7 +12,7 @@ Lambda expressions are represented using the following data type:
 
 ## 2.Running the REPL
 To interact with the interpreter, run the following command:
-<sub>runhaskell main.hs</sub>
+```runhaskell main.hs```
 In the REPL we can write our own lambda functions and macros and evaluate them:
 ### Expressions:
 ```(\x.\y.\z.x (y z))``` **or** ```λx.λy.λz.x y z```
