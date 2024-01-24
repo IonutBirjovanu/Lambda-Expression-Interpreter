@@ -5,9 +5,7 @@ This project is a Haskell interpreter for lambda expressions. Lambda expressions
 Lambda expressions are represented using the following data type:
 
 ```data Expr = Variable String```
-
           ```| Function String Expr```
-
           ```| Application Expr Expr```
 
 ## 2.Running the REPL
